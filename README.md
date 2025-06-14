@@ -1,51 +1,53 @@
 <h1 align="center">Hey there, I'm C2 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Passionate+Luau+%26+C%2B%2B+developer;Roblox+Scripter+%7C+C%23+%7C+Python+enthusiast;Always+learning+and+building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Luau+%7C+C%2B%2B+%7C+C%23+%7C+Python+Developer;Roblox+Scripter+%7C+Game+Dev+Enthusiast;Building+skills+daily..." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/c2"><img src="https://img.shields.io/github/followers/c2?label=Follow&style=social"></a>
-  <img src="https://komarev.com/ghpvc/?username=c2&label=Profile+Views&color=blueviolet&style=flat" alt="c2" />
+  <a href="https://github.com/c2xe"><img src="https://img.shields.io/github/followers/c2xe?label=Follow&style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=c2xe&label=Profile+Views&color=blueviolet&style=flat" alt="c2xe" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🧠 I'm currently expanding my skills in **Luau scripting** for Roblox development  
-- 💼 Not working on a major project at the moment — focusing on **learning, testing, and small experiments**
-- 🎮 I love building **interactive experiences** using Roblox Studio, Lua, and game development tools  
-- ⚙️ Operating System: **Windows 10**
-- 💬 Ask me about **Luau**, **Lua**, **C++**, **Python**, **C#**, or anything Roblox-related!
+- 🧠 Alias: **C2**
+- 🔍 Currently learning more advanced **Luau** and exploring scripting best practices
+- 🖥️ Tools: **Windows 10**, **VS Code**, **Visual Studio**, **Roblox Studio**
+- 🎯 Focused on **small learning experiments**, no big project at the moment
+- 🎮 Passionate about **game development**, especially scripting in Roblox
+- 💬 Ask me about **Luau**, **C++**, **Python**, **C#**, or game engine tools
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ My Toolbox
 
-| Tool              | Purpose                       |
-|-------------------|-------------------------------|
-| **VS Code**       | Lightweight coding, scripting |
-| **Visual Studio** | C++/C# development            |
-| **Roblox Studio** | Game development in Luau      |
+| Category     | Tools/Tech                             |
+|--------------|-----------------------------------------|
+| Languages    | Luau, Lua, Python, C++, C#              |
+| IDEs         | VS Code, Visual Studio, Roblox Studio   |
+| Platforms    | Roblox, GitHub                          |
+| OS           | Windows 10                              |
 
 ---
 
-## 💻 Languages
+## 💻 Languages I Use
 
 ![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=c2&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=c2&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=c2xe&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=c2xe&theme=tokyonight" />
 </p>
 
 ---
@@ -53,7 +55,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2&langs_count=8&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2xe&langs_count=8&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -61,17 +63,23 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c2&theme=darkhub&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=c2xe&theme=gruvbox&row=2&column=4" />
 </p>
 
 ---
 
 ## 🔍 Currently Exploring
 
-- 🔧 Advanced **Luau scripting techniques**
-- 🚀 Creating reusable Roblox modules
-- 🎯 Improving **problem-solving and code readability**
-- 🌐 Exploring open-source Roblox and Lua communities
+- 🌐 Roblox module development
+- 📦 Clean scripting architecture in Luau
+- 🧠 Design patterns in C++ and C#
+- 🛠️ Personal tools and utilities for dev workflows
+
+---
+
+## 📌 Pinned Projects *(Coming Soon)*
+
+> I'm cooking up some interesting things in Luau and Roblox scripting — stay tuned!
 
 ---
 
@@ -84,17 +92,10 @@
 
 ---
 
-## 🗃️ Pinned Projects *(Coming Soon)*
-
-> No active public projects right now — stay tuned as I share tools, templates, and learning experiments!
-
----
-
 ## ⚡ Fun Fact
 
-> I'm a scripting nerd who loves turning blank canvases into interactive virtual worlds in Roblox.
+> I love breaking things on purpose — then scripting cool ways to fix them!
 
 ---
 
-> *This README will grow as I do. Follow my journey here on GitHub!*
-
+> *README proudly maintained by [@c2xe](https://github.com/c2xe) — aka "C2"*
